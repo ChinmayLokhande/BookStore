@@ -1,0 +1,3 @@
+./client-BookStore-MERN/node_modules
+./server-BookStore-MERN/node_modules
+./server-BookStore-MERN/.env
